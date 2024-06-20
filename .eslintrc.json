@@ -1,0 +1,43 @@
+{
+    "extends": [
+        "@rocketseat/eslint-config/node"
+    ]
+}
+
+
+
+// {
+//     "workbench.colorTheme": "Material Theme Ocean",
+//     "workbench.colorTheme": "Omni Dracula Theme",
+//     "explorer.confirmDragAndDrop": false,
+//     "workbench.iconTheme": "eq-material-theme-icons-palenight",
+//     "editor.fontFamily": "Monocraft",
+//     "discord.detailsIdling": "wateeer break",
+//     "discord.detailsDebugging": "conjuring lines of codes",
+//     "discord.detailsEditing": "conjuring lines of codes",
+//     "discord.largeImageIdling": "water break",
+//     "discord.lowerDetailsDebugging": "{empty}",
+//     "discord.lowerDetailsEditing": "{empty}",
+//     "discord.lowerDetailsIdling": "{empty}",
+//     "discord.lowerDetailsNoWorkspaceFound": "{empty}",
+//     "discord.removeRemoteRepository": true,
+//     "discord.largeImage": "Coding in {LANG} ",
+//     "discord.removeLowerDetails": true,
+//     "discord.removeTimestamp": true,
+//     "discord.swapBigAndSmallImage": true,
+//     "explorer.confirmDelete": false,
+//     "security.workspace.trust.untrustedFiles": "open",
+//     "vsicons.dontShowNewVersionMessage": true,
+//     "workbench.settings.editor": "ui",
+//     "workbench.settings.applyToAllProfiles": [
+
+//     ],
+//     "workbench.settings.openDefaultSettings": true,
+//     "workbench.settings.useSplitJSON": true,
+//     "editor.codeActionsOnSave": {
+//         "source.fixAll.eslint": "explicit", 
+//     },
+//     "editor.rulers": [
+//         80, 120
+//     ]
+// }
